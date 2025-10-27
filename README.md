@@ -1,6 +1,6 @@
-# Racx Studio
+# Babel Mendunia
 
-![alt text](https://github.com/racmathafidz/babelmendunia/blob/master/src/assets/images/screely.png)
+![alt text](https://github.com/dmasprstya/babelmendunia/blob/master/src/assets/images/screely.png)
 
 ### About
 
