@@ -41,7 +41,7 @@ export const DiscussForm = (actions) => {
           "service_h4gtndg",
           "template_a9tvs7a",
           templateParams,
-          "user_csqIxzN5mKsl1yw4ffJzV"
+          "user_csqIxzN5mKsl1yw4ffJzV",
         )
         .then(
           () => {
@@ -50,7 +50,7 @@ export const DiscussForm = (actions) => {
           },
           (error) => {
             toast.error(error);
-          }
+          },
         );
     } else {
       toast.error("Please fill out the blank form.");

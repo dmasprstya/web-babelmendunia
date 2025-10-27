@@ -61,7 +61,7 @@ export default function Footer() {
         </div>
         <div className="flex-col text-center mt-7">
           <p className="text-lg text-gray-400 font-light">
-            Copyright 2025 - All rights reserved - BabelMendunia
+            Copyright 2025 - All Rights Reserved - BabelMendunia
           </p>
           <div className="flex-row">
             <p className="inline-block text-lg text-gray-400 font-light">
