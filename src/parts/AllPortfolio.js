@@ -24,17 +24,17 @@ export default function AllPortfolio({ data }) {
           <TabList>
             <div className="flex flex-row mb-5">
               <Tab>
-                <button className="font-normal px-5 py-2 mr-3 text-theme-purple text-lg border border-theme-purple rounded-full transition duration-300 hover:bg-theme-purple hover:text-white focus:outline-none focus:bg-theme-purple focus:text-white">
+                <button className="font-normal px-5 py-2 mr-3 text-light-theme-blue text-lg border border-light-theme-blue rounded-full transition duration-300 hover:bg-light-theme-blue hover:text-white focus:outline-none focus:bg-light-theme-blue focus:text-white">
                   Mobile
                 </button>
               </Tab>
               <Tab>
-                <button className="font-normal px-5 py-2 mr-3 text-theme-purple text-lg border border-theme-purple rounded-full transition duration-300 hover:bg-theme-purple hover:text-white focus:outline-none focus:bg-theme-purple focus:text-white">
+                <button className="font-normal px-5 py-2 mr-3 text-light-theme-blue text-lg border border-light-theme-blue rounded-full transition duration-300 hover:bg-light-theme-blue hover:text-white focus:outline-none focus:bg-light-theme-blue focus:text-white">
                   Website
                 </button>
               </Tab>
               <Tab>
-                <button className="font-normal px-8 py-2 text-theme-purple text-lg border border-theme-purple rounded-full transition duration-300 hover:bg-theme-purple hover:text-white focus:outline-none focus:bg-theme-purple focus:text-white">
+                <button className="font-normal px-8 py-2 text-light-theme-blue text-lg border border-light-theme-blue rounded-full transition duration-300 hover:bg-light-theme-blue hover:text-white focus:outline-none focus:bg-light-theme-blue focus:text-white">
                   UI/UX
                 </button>
               </Tab>

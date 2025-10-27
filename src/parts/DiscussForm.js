@@ -41,7 +41,7 @@ export const DiscussForm = (actions) => {
           "service_h4gtndg",
           "template_a9tvs7a",
           templateParams,
-          "user_csqIxzN5mKsl1yw4ffJzV",
+          "user_csqIxzN5mKsl1yw4ffJzV"
         )
         .then(
           () => {
@@ -50,7 +50,7 @@ export const DiscussForm = (actions) => {
           },
           (error) => {
             toast.error(error);
-          },
+          }
         );
     } else {
       toast.error("Please fill out the blank form.");
@@ -129,7 +129,7 @@ export const DiscussForm = (actions) => {
             />
           </div>
           <Button
-            className="text-xl mx-auto px-12 py-3 mt-5 bg-theme-purple text-white rounded-full border-2 border-theme-purple hover:bg-dark-theme-purple transition duration-200 focus:outline-none"
+            className="text-xl mx-auto px-12 py-3 mt-5 bg-light-theme-blue text-white rounded-full border-2 border-light-theme-blue hover:bg-dark-light-theme-blue transition duration-200 focus:outline-none"
             type="button"
             onClick={submitEmail}
           >

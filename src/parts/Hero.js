@@ -26,7 +26,7 @@ export default function Hero() {
           <Button
             href="/project"
             type="link"
-            className="flex w-71 h-18 items-center px-14 py-5 text-white text-xl bg-theme-purple rounded-lg shadow-2xl hover:bg-dark-theme-purple transition duration-200"
+            className="flex w-71 h-18 items-center px-14 py-5 text-white text-xl bg-light-theme-blue rounded-lg shadow-2xl hover:bg-dark-light-theme-blue transition duration-200"
           >
             See Our Work
             <svg

@@ -61,7 +61,7 @@ export default function Footer() {
         </div>
         <div className="flex-col text-center mt-7">
           <p className="text-lg text-gray-400 font-light">
-            Copyright 2021 - All rights reserved - babelmendunia
+            Copyright 2025 - All rights reserved - BabelMendunia
           </p>
           <div className="flex-row">
             <p className="inline-block text-lg text-gray-400 font-light">
@@ -71,7 +71,7 @@ export default function Footer() {
               href="https://github.com/dmasprstya"
               type="link"
               target="_blank"
-              className="text-lg text-theme-purple font-light"
+              className="text-lg text-light-theme-blue font-light"
               isExternal
             >
               Dimas Prasetya

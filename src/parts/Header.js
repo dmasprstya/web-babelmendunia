@@ -88,7 +88,7 @@ export default function Header() {
         </li>
         <li>
           <Button
-            className="font-medium text-lg mx-auto ml-3 px-6 py-2 bg-theme-purple text-white rounded-full border-2 border-theme-purple hover:bg-dark-theme-purple border-purple-800 transition duration-200"
+            className="font-medium text-lg mx-auto ml-3 px-6 py-2 bg-light-theme-blue text-white rounded-full border-2 border-light-theme-blue hover:bg-dark-light-theme-blue border-purple-800 transition duration-200"
             type="link"
             href="/discuss-project"
           >
@@ -144,7 +144,7 @@ export default function Header() {
             </li>
             <li className="mx-auto my-9 bg-white">
               <Button
-                className="font-bold mx-auto px-5 py-2 bg-theme-purple text-white rounded-full border-2 border-theme-purple hover:bg-dark-theme-purple border-purple-800 transition duration-200"
+                className="font-bold mx-auto px-5 py-2 bg-light-theme-blue text-white rounded-full border-2 border-light-theme-blue hover:bg-dark-light-theme-blue border-purple-800 transition duration-200"
                 type="link"
                 href="/discuss-project"
               >

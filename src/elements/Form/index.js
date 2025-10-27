@@ -48,7 +48,7 @@ export const Form = (props) => {
         placeholder={placeholder}
         value={value}
         className={[
-          "w-95 sm:w-192 lg:w-192.5 xl:w-192.5 p-4 mx-2 mb-6 font-light text-lg text-theme-blue rounded border border-gray-400 focus:outline-none focus:ring-1 focus:ring-theme-purple",
+          "w-95 sm:w-192 lg:w-192.5 xl:w-192.5 p-4 mx-2 mb-6 font-light text-lg text-theme-blue rounded border border-gray-400 focus:outline-none focus:ring-1 focus:ring-light-theme-blue",
           className,
         ].join(" ")}
         onChange={onChange}
@@ -68,7 +68,7 @@ export const Form = (props) => {
           pattern={pattern}
           value={value}
           className={[
-            "p-4 font-light text-lg text-theme-blue rounded border border-gray-400 focus:outline-none focus:ring-1 focus:ring-theme-purple",
+            "p-4 font-light text-lg text-theme-blue rounded border border-gray-400 focus:outline-none focus:ring-1 focus:ring-light-theme-blue",
             className,
           ].join(" ")}
           onChange={onChange}
@@ -91,7 +91,7 @@ export const Form = (props) => {
         placeholder={placeholder}
         value={value}
         className={[
-          "p-4 font-light text-lg text-theme-blue rounded border border-gray-400 focus:outline-none focus:ring-1 focus:ring-theme-purple",
+          "p-4 font-light text-lg text-theme-blue rounded border border-gray-400 focus:outline-none focus:ring-1 focus:ring-light-theme-blue",
           className,
         ].join(" ")}
         onChange={onChange}

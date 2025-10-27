@@ -33,7 +33,7 @@ export default function Service({ data }) {
               triggerOnce
             >
               <div>
-                <div className="bg-white group rounded-2xl shadow-2xl border border-light-theme-purple transform transition duration-500 hover:scale-105">
+                <div className="bg-white group rounded-2xl shadow-2xl border border-light-light-theme-blue transform transition duration-500 hover:scale-105">
                   <img
                     src={item.imageUrl}
                     alt="Service"

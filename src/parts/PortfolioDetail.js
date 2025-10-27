@@ -114,7 +114,7 @@ export default function PortfolioDetail({ data }) {
 
               <div className="flex flex-row ml-1">
                 {item.responsibility.map((responsibility) => (
-                  <div className="mr-4 px-6 py-3 text-theme-purple border border-theme-purple rounded-full shadow-lg">
+                  <div className="mr-4 px-6 py-3 text-light-theme-blue border border-light-theme-blue rounded-full shadow-lg">
                     {responsibility}
                   </div>
                 ))}
@@ -128,7 +128,7 @@ export default function PortfolioDetail({ data }) {
                 type="link"
                 href={item.credit}
                 target="_blank"
-                className="text-theme-purple"
+                className="text-light-theme-blue"
                 isExternal
               >
                 {item.credit}
