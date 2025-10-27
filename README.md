@@ -1,7 +1,5 @@
 # Babel Mendunia
 
-![alt text](https://github.com/dmasprstya/babelmendunia/blob/master/src/assets/images/screely.png)
-
 ### About
 
 A software house profile website built with ReactJS and TailwindCSS :computer:
