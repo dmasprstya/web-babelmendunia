@@ -40,7 +40,7 @@ export default function Footer() {
               Instagram
             </Button>
             <Button
-              href="https://www.linkedin.com/in/racmat-hafidz-89982a156/"
+              href="https://www.linkedin.com/in/mdimasprasetyawongso/"
               type="link"
               target="_blank"
               className="flex text-lg text-gray-400 font-light hover:underline"
@@ -49,7 +49,7 @@ export default function Footer() {
               LinkedIn
             </Button>
             <Button
-              href="https://github.com/racmathafidz"
+              href="https://github.com/dmasprstya"
               type="link"
               target="_blank"
               className="flex text-lg text-gray-400 font-light hover:underline"
@@ -68,13 +68,13 @@ export default function Footer() {
               Made with &#x2764; by&nbsp;
             </p>
             <Button
-              href="https://github.com/racmathafidz"
+              href="https://github.com/dmasprstya"
               type="link"
               target="_blank"
               className="text-lg text-theme-purple font-light"
               isExternal
             >
-              Racmat Hafidz Fadli
+              Dimas Prasetya
             </Button>
           </div>
         </div>
