@@ -11,7 +11,7 @@ export default function BrandIcon() {
     <Button className="" type="link" href="/">
       <p className="text-theme-blue text-4xl font-medium ">
         Babel
-        <span className="text-theme-light-blue">Mendunia</span>
+        <span className="text-light-theme-blue">Mendunia</span>
       </p>
     </Button>
   );
