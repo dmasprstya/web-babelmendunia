@@ -78,6 +78,17 @@ export default function Header() {
         <li className="py-2 lg:py-0">
           <Button
             className={`${
+              path === "/news" ? "active-link" : ""
+            } font-medium text-lg px-5 no-underline hover:underline`}
+            type="link"
+            href="https://www.babelmendunia.com"
+          >
+            News
+          </Button>
+        </li>
+        <li className="py-2 lg:py-0">
+          <Button
+            className={`${
               path === "/project" ? "active-link" : ""
             } font-medium text-lg px-5 no-underline hover:underline`}
             type="link"
@@ -129,6 +140,17 @@ export default function Header() {
                 href="/team"
               >
                 Team
+              </Button>
+            </li>
+            <li className="py-2 bg-white">
+              <Button
+                className={`${
+                  path === "/news" ? "active-link" : ""
+                } font-medium px-10 no-underline hover:underline`}
+                type="link"
+                href="www.babelmendunia.com"
+              >
+                News
               </Button>
             </li>
             <li className="py-2 bg-white">
